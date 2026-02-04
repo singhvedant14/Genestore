@@ -1,0 +1,34 @@
+DNA Storage Test File
+=====================
+
+This is a sample file for testing the DNA Storage Simulator.
+
+Key Features to Test:
+1. Text encoding and decoding
+2. Error correction capabilities
+3. AI-powered mutation recovery
+4. Large data handling
+5. Special characters: !@#$%^&*()
+
+Sample Data:
+The quick brown fox jumps over the lazy dog.
+ATCG are the four bases that make up DNA.
+01001000 01100101 01101100 01101100 01101111 (Binary for "Hello")
+
+Technical Specifications:
+- Storage Density: 215 petabytes per gram
+- Data Retention: 1000+ years
+- Error Correction: Reed-Solomon + AI Neural Network
+- Redundancy: Configurable 1-10x
+
+This file contains enough text to demonstrate:
+✓ ASCII character encoding
+✓ Numbers: 1234567890
+✓ Punctuation: .,;:!?-_()[]{}
+✓ Special symbols: @#$%^&*+=~`
+✓ Unicode emoji: 🧬💾🔬✨
+✓ Multiple lines and paragraphs
+
+Total length: ~750 characters
+
+Perfect for testing basic encoding and decoding!
